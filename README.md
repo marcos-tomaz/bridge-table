@@ -27,14 +27,14 @@ npm install
 
 yarn install
 ```
-2. Start the app by running the following command in the root foder
+2. Start the app locally by running the following command in the root foder
 
 ```bash
-npm start
+npm run dev
 
 # or
 
-yarn start
+yarn dev
 ```
 3. By default the app will be available on the `localhost` port `3000`.
 ## ☕ Testing
