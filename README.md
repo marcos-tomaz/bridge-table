@@ -1,6 +1,9 @@
 # Bridge Table
 
 This is a Web Application built on Next.Js that simulates a Bridge game table.
+
+### [Demo/preview](https://superlative-fenglisu-f21c55.netlify.app/)
+
 ## :page_facing_up: About
 The app simulates a bridge table, It randomly distributing cards by the four players in the table (North, South, West, East), and shows the punctuation for each player according to the cards in its hand. It displays the total punctuation and the punctuation per suit in the deck(Spade [:spades:], Heart [:hearts:], Diamond [:diamonds:], Clubs [:clubs:]).
 
