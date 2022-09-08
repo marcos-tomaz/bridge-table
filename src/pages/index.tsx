@@ -8,12 +8,11 @@ import Head from 'next/head';
 import { useCallback, useEffect, useState } from 'react';
 import { calcPointsPerSuitInHand } from 'services/bridge-points';
 import { genBridgeDeck } from 'services/deck';
-
 import {
   CardHandContainer,
   GameTableContainer,
   HandNameContainer
-} from './styles';
+} from 'styles/pages/home/styles';
 
 const tablePlayers: Array<{ playerName: string; position: TablePositions }> = [
   { playerName: 'North', position: 'top' },
